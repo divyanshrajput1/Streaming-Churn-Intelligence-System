@@ -165,10 +165,8 @@ http://localhost:8501
 
 ---
 
-# 📌 Author - 
-Divyansh Rajput
-Data Science / Machine Learning
-Project built for advanced ML & simulation practice.
+# 📌 Author 
+Divyansh Rajput (ML Engineer)
 
 ---
 
