@@ -21,7 +21,7 @@ This project includes:
 
 ---
 
-# 🧠 Architecture Overview
+# Architecture Overview
 
 Producer → Partitioned Topic Logs → Consumer → Feature Store → ML Model → Dashboard
 
@@ -37,7 +37,7 @@ Key components:
 
 ---
 
-# 🎯 Model Performance
+# Model Performance
 
 - Model: XGBoost
 - ROC-AUC: **0.92**
@@ -47,7 +47,7 @@ Key components:
 
 ---
 
-# 🔥 Features Engineered
+# Features Engineered
 
 - Rolling session averages
 - Watchtime rolling averages
@@ -58,7 +58,7 @@ Key components:
 
 ---
 
-# 📊 Revenue Impact Simulation
+# Revenue Impact Simulation
 
 Simulated retention campaign:
 
@@ -69,7 +69,7 @@ Simulated retention campaign:
 
 ---
 
-# ⚡ Streaming Simulation
+# Streaming Simulation
 
 Simulates Kafka-style architecture:
 
@@ -81,7 +81,7 @@ Simulates Kafka-style architecture:
 
 ---
 
-# 📈 Auto Scaling Logic
+# Auto Scaling Logic
 
 Auto-scaler dynamically adjusts consumers based on lag:
 
@@ -92,7 +92,7 @@ Auto-scaler dynamically adjusts consumers based on lag:
 
 ---
 
-# 🎨 Dark Neon Dashboard
+# Dark Neon Dashboard
 
 Features:
 
@@ -107,7 +107,7 @@ Run with: streamlit run streaming/dashboard.py
 
 ---
 
-# 🚀 How To Run The System
+# How To Run The System
 
 ### 1️⃣ Train Model (optional)
 python src/train.py
@@ -129,7 +129,7 @@ http://localhost:8501
 
 ---
 
-# 🧠 What This Project Demonstrates
+# What This Project Demonstrates
 
 - Real-time ML inference
 - Distributed systems simulation
@@ -141,7 +141,7 @@ http://localhost:8501
 
 ---
 
-# 🏗 Technologies Used
+# Technologies Used
 
 - Python
 - XGBoost
@@ -153,7 +153,7 @@ http://localhost:8501
 
 ---
 
-# 🔥 Future Improvements
+# Future Improvements
 
 - Dockerized microservices
 - Kubernetes-style scaling simulation
@@ -165,12 +165,12 @@ http://localhost:8501
 
 ---
 
-# 📌 Author 
+# Author :
 Divyansh Rajput (ML Engineer)
 
 ---
 
-# ⭐ Final Note
+# Final Note :
 
 This is not just a churn model.
 
